@@ -17,7 +17,7 @@ pnpm-debug.log*
 *.swo
 *~
 .DS_Store
-
+config.js
 # Build outputs
 dist/
 build/
